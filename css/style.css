@@ -503,7 +503,7 @@ body::after {
 }
 
 .section-title {
-  font-family: "Montserrat";
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   line-height: 130%;
 }
@@ -538,7 +538,7 @@ body::after {
 }
 
 .hero-section__title {
-  font-family: Montserrat;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   color: white;
   line-height: 120%;
@@ -738,7 +738,7 @@ body::after {
 
 .advantages .slide-caption__title {
   color: #3FAECC;
-  font-family: Montserrat;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   font-size: 24px;
 }
@@ -816,7 +816,7 @@ body::after {
 }
 
 .infrastructure .card__title {
-  font-family: Montserrat;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   font-size: 24px;
   margin-bottom: 16px;
@@ -844,7 +844,7 @@ body::after {
 }
 
 .cta-view__title {
-  font-family: Montserrat;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   margin-bottom: 24px;
   color: white;
@@ -954,7 +954,7 @@ body::after {
 }
 
 .apartments__card-title {
-  font-family: Montserrat;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   color: #3FAECC;
   font-size: 32px;
@@ -963,7 +963,7 @@ body::after {
 }
 
 .apartments__card-text {
-  font-family: Montserrat;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
   color: #3FAECC;
   font-size: 32px;
